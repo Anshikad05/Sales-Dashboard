@@ -3,8 +3,8 @@ This Power BI dashboard provides an interactive and comprehensive analysis of Su
 
 PROJECT OVERVIEW:
 This dashboard highlights:
--Total Sales,Profit & Quantity
--Sales by Category & Sub-category
--Sales by Region & State
--Ship Mode insights
--Top and bottom segment analysis
+-Total Sales,Profit & Quantity,
+ -Sales by Category & Sub-category,
+ -Sales by Region & State,
+ -Ship Mode insights,
+ -Top and bottom segment analysis.
